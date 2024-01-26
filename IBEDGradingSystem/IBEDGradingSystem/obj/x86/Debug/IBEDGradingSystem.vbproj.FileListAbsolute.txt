@@ -1,0 +1,579 @@
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\Project System\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+C:\Users\rObErT(messi)\Desktop\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+G:\IBED Grade Repository System as of March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+G:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+F:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+F:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+F:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+F:\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+E:\Project System\ABC-EDC permanent record and grade slip March 3, 2015 - 8pm\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+H:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+G:\ABC Grading System\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\ABC Grading System-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\Project System\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSYSetting.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSYSetting.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\SYSTEM-PROJECTS\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.exe
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbprojResolveAssemblyReference.cache
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Form1.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAbsenLate.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditAbsentLate.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditComputeGrade.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditTeacher.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddingGrade.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSection.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditStudent.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmAddEditSubject.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGradeMain.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmDatabase.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmEditingGrade.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradePerStudent.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradeReport.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGrades.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingReport.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmGradingSheetReport.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmHome.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadSection.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadStudent.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLoadTeacher.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmLogin.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmMain.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSection.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSelectSectionForST.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudent.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubject.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmStudentGrades.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmComputeSubjectGrade.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSubjectMaxScore.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmSYSetting.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacher.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmTeacherSubjects.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.frmUser.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.Resources.resources
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.vbproj.GenerateResource.Cache
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.cache
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\RdlCompile.compiled
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\bin\Debug\rptGradingReport1.rdlc
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\Report1.rdlc
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.Designer.vb
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsc
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xsd
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\DSGradingReport.xss
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.pdb
+E:\PROJECT\SYSTEM-PROJECTS 2014\PROJECT SYSTEM 2014-015\ABC Grading System Final-Rom2x Copy\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.xml
+C:\Users\HCT\Downloads\grading_system\Grading System\ABC Grading System Final\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\bin\Debug\IBEDGradingSystem.exe.config
+C:\Users\HCT\Downloads\grading_system\Grading System\ABC Grading System Final\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.xml
+C:\Users\HCT\Downloads\grading_system\Grading System\ABC Grading System Final\ABC-EDC permanent record and grade slip March 19, 2015\IBEDGradingSystem\IBEDGradingSystem\obj\x86\Debug\IBEDGradingSystem.pdb

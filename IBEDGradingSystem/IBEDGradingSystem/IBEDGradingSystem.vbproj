@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{85D59ED2-6274-477B-BC0D-DDB382DBB27C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IBEDGradingSystem.My.MyApplication</StartupObject>
+    <RootNamespace>IBEDGradingSystem</RootNamespace>
+    <AssemblyName>IBEDGradingSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IBEDGradingSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IBEDGradingSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.3.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DSGradingReport.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSGradingReport.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="DSGradingReport.vb">
+      <DependentUpon>DSGradingReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAbsenLate.Designer.vb">
+      <DependentUpon>frmAbsenLate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbsenLate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditAbsentLate.Designer.vb">
+      <DependentUpon>frmAddEditAbsentLate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditAbsentLate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditComputeGrade.Designer.vb">
+      <DependentUpon>frmAddEditComputeGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditComputeGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditTeacher.Designer.vb">
+      <DependentUpon>frmAddEditTeacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditTeacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddingGrade.Designer.vb">
+      <DependentUpon>frmAddingGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddingGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSection.Designer.vb">
+      <DependentUpon>frmAddEditSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditStudent.Designer.vb">
+      <DependentUpon>frmAddEditStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditSubject.Designer.vb">
+      <DependentUpon>frmAddEditSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddEditSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComputeSubjectGradeMain.designer.vb">
+      <DependentUpon>frmComputeSubjectGradeMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmComputeSubjectGradeMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatabase.designer.vb">
+      <DependentUpon>frmDatabase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatabase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditingGrade.Designer.vb">
+      <DependentUpon>frmEditingGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditingGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradePerStudent.Designer.vb">
+      <DependentUpon>frmGradePerStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradePerStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradeReport.Designer.vb">
+      <DependentUpon>frmGradeReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradeReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrades.Designer.vb">
+      <DependentUpon>frmGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradingReport.Designer.vb">
+      <DependentUpon>frmGradingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGradingSheetReport.Designer.vb">
+      <DependentUpon>frmGradingSheetReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGradingSheetReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.vb">
+      <DependentUpon>frmHome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadSection.Designer.vb">
+      <DependentUpon>frmLoadSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadSection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadStudent.Designer.vb">
+      <DependentUpon>frmLoadStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadTeacher.Designer.vb">
+      <DependentUpon>frmLoadTeacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadTeacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSection.Designer.vb">
+      <DependentUpon>frmSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSelectSectionForST.Designer.vb">
+      <DependentUpon>frmSelectSectionForST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSelectSectionForST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudent.Designer.vb">
+      <DependentUpon>frmStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubject.Designer.vb">
+      <DependentUpon>frmSubject.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubject.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentGrades.Designer.vb">
+      <DependentUpon>frmStudentGrades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentGrades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComputeSubjectGrade.Designer.vb">
+      <DependentUpon>frmComputeSubjectGrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmComputeSubjectGrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSubjectMaxScore.Designer.vb">
+      <DependentUpon>frmSubjectMaxScore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSubjectMaxScore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSYSetting.Designer.vb">
+      <DependentUpon>frmSYSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSYSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacher.Designer.vb">
+      <DependentUpon>frmTeacher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeacherSubjects.Designer.vb">
+      <DependentUpon>frmTeacherSubjects.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeacherSubjects.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUser.designer.vb">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ibedgrading_dbDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ibedgrading_dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="modEncriptDecript.vb" />
+    <Compile Include="modFunction.vb" />
+    <Compile Include="modVarConn.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\Debug\rptGradingReport3.rdlc" />
+    <EmbeddedResource Include="bin\Debug\rptGradingReport4.rdlc" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbsenLate.resx">
+      <DependentUpon>frmAbsenLate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditAbsentLate.resx">
+      <DependentUpon>frmAddEditAbsentLate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditComputeGrade.resx">
+      <DependentUpon>frmAddEditComputeGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditTeacher.resx">
+      <DependentUpon>frmAddEditTeacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddingGrade.resx">
+      <DependentUpon>frmAddingGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSection.resx">
+      <DependentUpon>frmAddEditSection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditStudent.resx">
+      <DependentUpon>frmAddEditStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditSubject.resx">
+      <DependentUpon>frmAddEditSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComputeSubjectGradeMain.resx">
+      <DependentUpon>frmComputeSubjectGradeMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatabase.resx">
+      <DependentUpon>frmDatabase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditingGrade.resx">
+      <DependentUpon>frmEditingGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradePerStudent.resx">
+      <DependentUpon>frmGradePerStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradeReport.resx">
+      <DependentUpon>frmGradeReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrades.resx">
+      <DependentUpon>frmGrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradingReport.resx">
+      <DependentUpon>frmGradingReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGradingSheetReport.resx">
+      <DependentUpon>frmGradingSheetReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoadSection.resx">
+      <DependentUpon>frmLoadSection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoadStudent.resx">
+      <DependentUpon>frmLoadStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoadTeacher.resx">
+      <DependentUpon>frmLoadTeacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSection.resx">
+      <DependentUpon>frmSection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSelectSectionForST.resx">
+      <DependentUpon>frmSelectSectionForST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudent.resx">
+      <DependentUpon>frmStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubject.resx">
+      <DependentUpon>frmSubject.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentGrades.resx">
+      <DependentUpon>frmStudentGrades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComputeSubjectGrade.resx">
+      <DependentUpon>frmComputeSubjectGrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSubjectMaxScore.resx">
+      <DependentUpon>frmSubjectMaxScore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSYSetting.resx">
+      <DependentUpon>frmSYSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacher.resx">
+      <DependentUpon>frmTeacher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeacherSubjects.resx">
+      <DependentUpon>frmTeacherSubjects.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUser.resx">
+      <DependentUpon>frmUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\rptGradingReport1.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bin\Debug\rptGradingReport2.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptGradePerStudent.rdlc" />
+    <EmbeddedResource Include="rptGradingSheet.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DSGradingReport.xsc">
+      <DependentUpon>DSGradingReport.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="DSGradingReport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSGradingReport.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="DSGradingReport.xss">
+      <DependentUpon>DSGradingReport.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="ibedgrading_dbDataSet.xsc">
+      <DependentUpon>ibedgrading_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ibedgrading_dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ibedgrading_dbDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ibedgrading_dbDataSet.xss">
+      <DependentUpon>ibedgrading_dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
